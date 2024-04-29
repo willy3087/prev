@@ -1,0 +1,55 @@
+Nome,Tempo,Complexidade,Entropia,Título Tarefa,Descrição Tarefa
+Gabriela,5.0,8.0,0.0,Central de ideias - tem que melhorar a visualização quando o colaborador recebe uma resposta ou é convidado a participar da ideia, Com melhoria de visualização estão querendo dizer exibir algum indicador na listagem de ideias que informe que alguma ideia que o colaborador faz parte teve alguma interação recente?  
+Gabriela,5.0,8.0,0.0,Central de ideias - Agrupar ideias por semelhança,"Quando há ideias parecidas, ter uma forma de agrupar, juntar, as ideias. "
+Júlio,1.0,2.0,0.0,Tipos de anomalia,Esperar Tabela de tipos de anomalia 
+Júlio,16.0,8.0,0.0,Prototipar Fluxo de pesquisa do catálogo e cadastro,"https://slideplayer.com.br/slide/10159338/  https://www.gov.br/siscomex/pt-br/arquivos-e-imagens/2021/10/CAT_V7.pdf  Pontos importantes: Tela para site:  Programa de importação e precisamos das telas de catálogo de produtos Existem diferenças entre os produtos e a forma de descreve-lo é muito genérico, os formatos e embalagens são muito relevantes, o mesmo produto pode ser tributado de forma diferentes então certas particularidades podem alterar o código em que ele estará alocado.  A partir da NCM eles vão padronizar a descrição do produto. Os campos precisam ser adicionados de acordo com os padrões. a NCM funciona como uma árvore os atributos são de integração sugestão de produtos que já existem. Exemplos de atributos: VoltagemABS Freios Tinta   "
+Gabriela,8.0,10.0,0.0,Alterar componente de termo padrão,Utilizar componente e comportamento igual ao de benefícios 
+Gabriela,8.0,10.0,0.0,Tela de cadastro de termos (Padrões),Criar um crud de termos que se tornará padrão.  Precisa dizer que é um termo padrão 
+Júlio,8.0,4.0,0.0,Padronização Componentes,
+William,4.0,3.0,0.0,Estudar plataformas,
+Júlio,16.0,14.0,0.0,Refatorar ponto com ds Bootstrap,
+Júlio,2.0,2.0,0.0,Modal de compartilhamento de links,
+Thais,1.0,3.0,0.0,Entrevista com analista da Gupy,
+Júlio,4.0,3.0,0.0,Identificação de Tags e Agrupamento,
+Júlio,6.0,5.0,0.0,Duvidas e Alterações Treinamento,
+William,5.0,3.0,0.0,Fazer entregável da Tela de N1,
+Júlio,16.0,8.0,0.0,Fluxo 2,4.2.2 Registro/log  
+Gabriela,3.0,2.0,0.0,Gabriela Daily,
+William,3.0,3.0,0.0,William Daily,
+William,3.0,2.0,0.0,William Daily UX,
+Thais,5.5,5.5,0.0,Thaís Daily UX,
+William,2.0,1.0,0.0,William Reunião de Gestão,
+Júlio,3.0,4.0,0.0,Julio Daily UX,
+William,5.0,3.0,0.0,William Tira duvidas,
+Thais,8.0,8.0,0.0,Thaís Tira dúvidas,
+Gabriela,10.0,2.0,0.0,Gabriela Tira dúvidas,
+Júlio,10.0,3.0,0.0,Júlio Tira dúvidas,
+Thais,6.0,6.0,0.0,Pesquisa de concorrentes,https://www.figma.com/file/7mf1qF5FIqFxbL3Goq0GBL/Research-%2B-Benchmarking?type=whiteboard&node-id=173%3A2150&t=Auhy4UjW3zcBxNWz-1 
+Thais,20.0,21.0,0.0,Analise dos concorrentes selecionados,
+Gabriela,8.0,8.0,0.0,Analise 2 dos concorrentes selecionados,
+Thais,20.0,21.0,0.0,Material PPT Benchmarck,Gupy recrutamento e seleção: Benchmark Experience - Gupy recrutamento.pptx  Recruitee: https://muralisti-my.sharepoint.com/:p:/g/personal/thais_pereira_muralis_com_br/ESrswSv-ZepAnnDquKZ1F-wBTZ0_0Ez_l29DpMcpFX8IvA?e=BlWw52  workable: https://muralisti-my.sharepoint.com/:p:/g/personal/thais_pereira_muralis_com_br/ER4HL0G7TU1Ji4JbWEkX14UB7ZERPHH1kp63EEerGEkS8A?e=R0gObU 
+Gabriela,8.0,16.0,0.0,Design do PPT,
+William,5.0,1.0,0.0,Revisão de Material,
+William,6.0,13.0,0.0,Tabela/Phill/tag/modais/input_text/Buttons,
+Thais,41.0,41.0,0.0,Demissão Parte 3 e 4,REQ 4.2.3 Informes e pedidos de demissão 
+William,16.0,5.0,0.0,Vale transporte,
+William,8.0,8.0,0.0,Conteúdo,
+Gabriela,6.0,6.0,0.0,Layout/Revisão,
+Júlio,4.0,8.0,0.0,Fix Trilhas,Adicionar um curso à uma trilha personalizada. 
+Júlio,2.0,2.0,0.0,Feedback's,Colaborador dar o feedback 
+Júlio,2.0,2.0,0.0,"trava de módulo ""state Disable""",
+Júlio,10.0,10.0,0.0,Adicionar visualização colaborador de todos os objetos de aprendizagem,
+Júlio,4.0,4.0,0.0,Anotações na aula,
+Júlio,3.0,3.0,0.0,Fluxo Gravado VT,
+Júlio,5.0,13.0,0.0,Fluxo de importação - Colaborador,"Adicionar log de csv importados, com status "
+Júlio,3.0,3.0,0.0,Criar Trilha Colaborador/RH,
+William,6.0,4.0,0.0,Planilhas de gestão,
+William,1.0,1.0,0.0,Relatório de Estágio,
+William,5.0,5.0,0.0,Entrevistas,
+Gabriela,8.0,8.0,0.0,Analise 2 - Recruitee,Analisar a plataforma 
+Gabriela,8.0,2.5,0.0,Design ppt - Recruitee,
+Júlio,1.0,1.0,0.0,Apresentação,
+Júlio,1.0,1.0,0.0,Estudo,
+Gabriela,2.5,2.5,0.0,Design PPT - Workable,
+Gabriela,16.0,7.5,0.0,Estudo de variantes prototipo fitec,
+Júlio,13.0,13.0,0.0,Fluxo Demissão pt3,
